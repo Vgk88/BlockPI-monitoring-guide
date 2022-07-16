@@ -149,7 +149,7 @@ Here's what we'll see
 Import BlockPI Dashboard 
 Set `Import via panel json`
 
-* [Klaytn]()
+* [Klaytn](https://github.com/Vgk88/BlockPI-monitoring-guide/blob/main/Klaytn.json)
 
 At the very beginning, you will get an error, but in order for everything to work, you need to go to `dashboard settings` -> `Variables`
 
