@@ -1,4 +1,4 @@
-# BlockPI_monitoring
+# BlockPI monitoring setup guide
 
 1. Setup Grafana, Prometheus and node-exporter
 2. Configure Prometheuss 
